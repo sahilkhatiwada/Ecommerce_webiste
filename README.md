@@ -1,4 +1,4 @@
-Certainly! Here's a sample description for an e-commerce website that you can use for your GitHub repository:
+
 
 ---
 
